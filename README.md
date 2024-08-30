@@ -18,7 +18,7 @@
 
 ## Install
 - Windows
-  - Download `SteamPulse_x.x-windows.zip` asset from [releases](https://github.com/AmirMahdaviAM/SteamPulse/releases), extract and run .exe file
+  - Download `SteamPulse_x.x-windows.zip` asset from [releases](https://github.com/AmirMahdaviAM/SteamPulse/releases) and run file
   - Or you can procced with below instruction
 - Linux, Mac
   - Required `Python 3.10+` (maybe lower, not tested)
