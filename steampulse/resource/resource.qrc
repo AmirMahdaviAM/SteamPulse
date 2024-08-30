@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="">
+        <file>image/avatar.png</file>
+        <file>image/gif.gif</file>
+
+        <file>vector/logo_black.svg</file>
+        <file>vector/logo_white.svg</file>
+        <file>vector/logo_color.svg</file>
+        <file>vector/logo_splash.svg</file>
+
+        <file>vector/metacritic.svg</file>
+        <file>vector/key.svg</file>
+        
+        <file>vector/key_irt_black.svg</file>
+        <file>vector/key_irt_white.svg</file>
+        <file>vector/temp_image_black.svg</file>
+        <file>vector/temp_image_white.svg</file>
+        <file>vector/steam_black.svg</file>
+        <file>vector/steam_white.svg</file>
+        <file>vector/steamdb_black.svg</file>
+        <file>vector/steamdb_white.svg</file>
+        <file>vector/pcgw_black.svg</file>
+        <file>vector/pcgw_white.svg</file>
+
+        <file>font/vazirmatn.ttf</file>
+    </qresource>
+</RCC>

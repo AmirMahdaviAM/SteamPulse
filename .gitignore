@@ -1,0 +1,15 @@
+# python
+*/__pycache__
+*.py[cod]
+*$py.class
+
+# vscode
+.vscode/
+*.code-workspace
+
+# scshub
+/temp
+config.json
+games_db.json
+*.log
+todo.txt
