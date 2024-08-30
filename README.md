@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="20%" align="center" src="steampulse/resource/vector/logo_splash.svg" alt="logo">
+  <img width="25%" align="center" src="steampulse/resource/vector/logo_splash.svg" alt="logo">
 </p>
 <p align="center">
   Steam game shop helper
